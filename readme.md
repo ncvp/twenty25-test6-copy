@@ -1,6 +1,6 @@
 # Twenty Twenty-Five test6 copy
 
-This repo consists of a Twenty Twenty-Five child theme, twenty25-test6, which includes an immplementation of the Twenty Seventeen menu system.
+This repo consists of a Twenty Twenty-Five child theme, twenty25-test6, which includes an implementation of the Twenty Seventeen menu system.
 
 ## Purpose
 

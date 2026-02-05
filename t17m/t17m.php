@@ -42,9 +42,9 @@ function tt5tn_render_navigation() {
 function t17m_register_navigation() {
 	$res = register_block_type(
 		get_stylesheet_directory() . '/t17m',
-#		array('render_callback' => 'tt5tn_render_navigation')
+		array('render_callback' => 'tt5tn_render_navigation')
 	);
-	error_log("register_navigation: " . print_r($res, 1));
+#	error_log("register_navigation: " . print_r($res, 1));
 }
 add_action('init', 't17m_register_navigation');
 
