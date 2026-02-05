@@ -1,0 +1,13 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "ncvp/header-menu",
+	"title": "NCVP 2017-style header menu",
+	"category": "theme",
+	"icon": "menu",
+	"description": "Works in 2025 child theme - XXXX",
+	"supports": {
+		"html": false
+	},
+	"editorScript": "file:./editor.js"
+}

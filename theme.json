@@ -1,0 +1,24 @@
+{
+  "$schema": "https://schemas.wp.org/wp/6.9/theme.json",
+  "version": 3,
+  "#settings": {
+    "typography": {
+      "fontFamilies": [
+        {
+          "fontFamily": "\"Comic Sans MS\", \"Comic Neue\", sans-serif",
+          "slug": "comic-sans",
+          "name": "Comic Sans"
+        }
+      ]
+    },
+    "#layout": {
+      "contentSize": "900px",
+      "wideSize": "1400px"
+    }
+  },
+  "#styles": {
+    "typography": {
+      "fontFamily": "var(--wp--preset--font-family--comic-sans)"
+    }
+  }
+}
